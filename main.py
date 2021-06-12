@@ -1,6 +1,5 @@
 def helloworld(a):
     msg = f"Hellow world! {a}!"
-    print(msg)  # asdfsadfsacsdacsa
     return msg
 
 
