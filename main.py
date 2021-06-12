@@ -1,5 +1,7 @@
-def    helloworld(a):
-    print(f"Hellow world! {a}!")# asdfsadfsacsdacsa
+def helloworld(a):
+    msg = f"Hellow world! {a}!"
+    return msg
+
 
 if __name__ == "__main__":
     helloworld("Han")
